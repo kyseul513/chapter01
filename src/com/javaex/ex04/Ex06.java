@@ -6,7 +6,7 @@ public class Ex06 {
 
 		for (int i = 1; i <= 100; i++) {
 
-			if ((i % 6 == 0) && (i % 14 == 0)) {
+			if (i % 6 == 0 && i % 14 == 0) {
 				System.out.println(i);
 
 				break;
