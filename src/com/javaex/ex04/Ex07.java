@@ -16,7 +16,6 @@ public class Ex07 {
 		int[] kArray = { 1, 2, 3 };
 
 		
-		
 		// 컬렉션 프레임워크 - List 컬렉션
 		// 1. ArrayList
 		List<String> list = new ArrayList<String>();
