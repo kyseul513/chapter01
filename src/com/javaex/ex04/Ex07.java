@@ -2,6 +2,7 @@ package com.javaex.ex04;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Ex07 {
@@ -56,6 +57,9 @@ public class Ex07 {
 			System.out.println("alist2: "+number);
 		}
 		
+		//2. LinkedList
+		//순차적으로 추가/삭제하는 경우 ArrayList가 빠르지만 중간에 추가/삭제할 경우에는 LinkedList가 더 빠름.
+		List<String> llist = new LinkedList<String>();
 	
 	}
 
